@@ -1,0 +1,22 @@
+This '3.0' version of the pack is by no means complete. 
+It has a large addition of vehicles, and a lot of fixes for old vehicles.
+There are a few vehicles that will spawn with a weird green texture.
+I am aware of this and they will get fixed over time. However they do not effect anything, 
+you just have to enter a mechanic menu or clean the car and it will fix it.
+I know its ugly its only on like 4 or 5 cars, will fix promise.
+
+Whole range of police vehicles added including all of np up to 3.5
+All vehicles are under 300k poly count besides the ones listed in the other text.
+I would make sure to keep track of how many of those are on the server, it will eventually cause issues.
+trust me.
+everything else is an amazing car, some of which are obviously leaks, including some vehicle sounds. 
+They are just audio files, i know people gotta eat, but it was given to me.
+
+The vehicle config is set up as a np style vehicle tier system, S/S+ cars average 160+ A/A+ 145+ and so on.
+if you do not use the vehicle config, please dont ask me why something is not working.
+The handling is not perfect on every single car. feel free to take this on and do your own work.
+i have a full guide in the handling.meta
+there is just so many cars i have not truly driven them all.
+but i do my best. if you find cars that are just so wrong you know they should be changed,
+please tell me.
+enjoy the vehicles. make sure to show love to all the people who made all of these items available. 
