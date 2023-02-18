@@ -6,6 +6,9 @@ enjoy the pack, theres a second read me but thank you to all the creators of all
 hope you all enjoy!
 this pack will be updated periodically.
 
+**3 Seperate Folders For FiveM! Sounds, Config, and the Car Pack iteself!**
+**MAKE SURE TO USE ALL 3**
+
 
 
 <!--![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)-->
