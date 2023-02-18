@@ -1,5 +1,13 @@
 # FiveM Car Pack 
 all cars below besides the ones in poly-super-high.txt below 300k poly count.
+ignore the list below, its a copy and paste from the start of this pack, theres TONS more now
+i still need to add.
+enjoy the pack, theres a second read me but thank you to all the creators of all the vehicles and sounds.
+hope you all enjoy!
+this pack will be updated periodically.
+
+**3 Seperate Folders For FiveM! Sounds, Config, and the Car Pack iteself!**
+**MAKE SURE TO USE ALL 3**
 
 
 
