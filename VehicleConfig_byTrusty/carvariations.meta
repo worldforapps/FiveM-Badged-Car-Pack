@@ -895,6 +895,223 @@
       <sirenSettings value="0" />
     </Item>
     <Item>
+      <modelName>610lb</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            5 
+            11 
+            111 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            29
+            11 
+            28 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            36 
+            11 
+            26 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            111 
+            11 
+            0 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            38 
+            11 
+            37 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            88 
+            11
+            88 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            92
+            11
+            92 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            65 
+            11
+            87 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            67
+            11
+            67 
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            73
+            11
+            73
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+	      <Item>
+          <indices content="char_array">
+            70
+            11
+            70
+            120 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>9079_610lb_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="977" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
       <modelName>plymouthrrff7</modelName>
       <colors>
         <Item>
@@ -1892,7 +2109,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>0_default_modkit</Item>
+        <Item>970_mgt18lb_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -2295,7 +2512,7 @@
           <Value value="100" />
         </Item>
       </plateProbabilities>
-      <lightSettings value="1" />
+      <lightSettings value="961" />
       <sirenSettings value="450" />
     </Item>
     <Item>
@@ -2412,7 +2629,7 @@
           <Value value="100" />
         </Item>
       </plateProbabilities>
-      <lightSettings value="1" />
+      <lightSettings value="961" />
       <sirenSettings value="450" />
     </Item>
     <Item>
@@ -2574,7 +2791,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1" />
+      <lightSettings value="961" />
       <sirenSettings value="0" />
     </Item>
     <Item>
@@ -3230,8 +3447,43 @@
           <Value value="100" />
         </Item>
       </plateProbabilities>
-      <lightSettings value="438" />
+      <lightSettings value="958" />
       <sirenSettings value="441" />
+    </Item>
+    <Item>
+      <modelName>camaro02</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> 
+            0
+            0
+            0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            4
+            0
+            111
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>camaro70_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="962" />
+      <sirenSettings value="0" />
     </Item>
     <Item>
       <modelName>npolstang</modelName>
@@ -3287,7 +3539,7 @@
           <Value value="100" />
         </Item>
       </plateProbabilities>
-      <lightSettings value="439" />
+      <lightSettings value="959" />
       <sirenSettings value="441" />
     </Item>
     <Item>
@@ -12089,7 +12341,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="438" />
+      <lightSettings value="958" />
       <sirenSettings value="0" />
     </Item>
     <Item>
@@ -12564,7 +12816,7 @@
             0
           </indices>
           <liveries>
-            <Item value="false" />
+            <Item value="true" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -12607,7 +12859,7 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
-            <Item value="false" />
+            <Item value="true" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -12658,15 +12910,17 @@
       <kits>
         <Item>4056_npolexp_modkit</Item>
       </kits>
-      <windowsWithExposedEdges />
+      <windowsWithExposedEdges/>
       <plateProbabilities>
-        <Item>
-          <Name>Police guv plate</Name>
-          <Value value="100" />
-        </Item>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
       </plateProbabilities>
-      <lightSettings value="0" />
-      <sirenSettings value="436" />
+      <lightSettings value="1" />
+      <sirenSettings value="5016" />
     </Item>
     <Item>
       <modelName>fnfrx7</modelName>
