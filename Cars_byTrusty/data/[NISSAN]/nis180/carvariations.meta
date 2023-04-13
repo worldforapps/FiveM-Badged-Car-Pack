@@ -34,15 +34,11 @@
         <Probabilities>
           <Item>
             <Name>Standard White</Name>
-            <Value value="25" />
-          </Item>
-          <Item>
-            <Name>White Plate 2</Name>
-            <Value value="50" />
+            <Value value="100" />
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1696" />
+      <lightSettings value="984" />
       <sirenSettings value="0" />
     </Item>
   </variationData>

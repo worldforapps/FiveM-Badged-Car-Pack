@@ -139,6 +139,11 @@ Citizen.CreateThread(function()
 	--Suppressor
 	AddTextEntry("SUPP_LIV1", "Black")
 	AddTextEntry("SUPP_LIV2", "Grey")
+	--Flatbed3
+	AddTextEntry("FLATBED3_LIV1", "Number 1")
+	AddTextEntry("FLATBED3_LIV2", "Number 2")
+	AddTextEntry("FLATBED3_LIV3", "Number 3")
+	AddTextEntry("FLATBED3_LIV4", "Number 4")
 	--Veneno
 	AddTextEntry("VENENO_LIV1", "Gulf 1")
 	AddTextEntry("VENENO_LIV2", "Exp White")
