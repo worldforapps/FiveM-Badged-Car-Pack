@@ -20,6 +20,17 @@
 					}
 				]
 			},
+      {
+				"name": "Acura",
+				"menuTitle": "Acura",
+				"ace": "VehicleMenu.spawn",
+				"vehicles": [
+					{
+						"name": "Acura TL Type-S",
+						"model": "tltypes"
+					}
+				]
+			},
 			{
 				"name": "Audi",
 				"menuTitle": "Audi",
@@ -40,6 +51,33 @@
 					{
 						"name": "2020 Audi RS7",
 						"model": "rs72020"
+					},
+          {
+						"name": "1998 Audi Cabriolet RS2 B4",
+						"model": "80B4"
+					},					{
+						"name": "1993 Audi Quattro Sport",
+						"model": "audquattros"
+					},
+          {
+						"name": "2020 Audi R8",
+						"model": "r820"
+					},
+          {
+						"name": "2016 Audi RS6 C7",
+						"model": "rs6"
+					},
+          {
+						"name": "1998 Audi S8 D2/PFL",
+						"model": "s8d2"
+					},
+          {
+						"name": "2016 Audi SQ7",
+						"model": "sq72016"
+					},
+          {
+						"name": "2010 Audi TT RS",
+						"model": " ttrs"
 					}
 				]
 			},
@@ -128,6 +166,10 @@
 					{
 						"name": "2015 Chevrolet Tahoe",
 						"model": "15tahoe"
+					},
+          {
+						"name": "2020 Chevrolet Camro SS",
+						"model": "2020ss"
 					},
 					{
 						"name": "2017 Chevrolet Camaro RS",
